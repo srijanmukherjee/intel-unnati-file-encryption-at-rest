@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": true,
+    "editor.detectIndentation": true,
+    "[c]": {
+        "editor.defaultFormatter": "llvm-vs-code-extensions.vscode-clangd"
+    },
+}
