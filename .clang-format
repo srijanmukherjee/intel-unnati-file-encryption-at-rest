@@ -5,3 +5,4 @@ AlignAfterOpenBracket: Align
 BreakBeforeBraces: Linux
 DerivePointerAlignment: false
 PointerAlignment: Right
+AccessModifierOffset: -4
